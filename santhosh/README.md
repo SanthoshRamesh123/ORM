@@ -39,14 +39,19 @@ class Movies(models.Model):
 class MoviesAdmin(admin.ModelAdmin):
     list_display=('username','moviename','noofseats','mailid')
 ```
+```
 admin.py
 from django.contrib import admin
 from .models import Movies,MoviesAdmin
 admin.site.register(Movies,MoviesAdmin)
 ```
 
+
 ## OUTPUT
 
+Include the screenshot of your admin page.
+![alt text](<Screenshot 2025-05-30 084430.png>)
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
+
