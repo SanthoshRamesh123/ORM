@@ -11,4 +11,3 @@ class Movies(models.Model):
 
 class MoviesAdmin(admin.ModelAdmin):
     list_display=('username','moviename','noofseats','mailid')
-
