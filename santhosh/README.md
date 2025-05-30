@@ -23,6 +23,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+
 ```
 modes.py
 from django.db import models
@@ -47,7 +48,7 @@ admin.site.register(Movies,MoviesAdmin)
 
 
 ## OUTPUT
-Include the screenshot of your admin page.
+
 ![alt text](<Screenshot 2025-05-30 084430.png>)
 
 ## RESULT
