@@ -48,7 +48,8 @@ admin.site.register(Movies,MoviesAdmin)
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-05-30 084501.png>)
+![Screenshot 2025-05-30 120739](https://github.com/user-attachments/assets/93184d01-3f49-4cc6-bdc9-36613d64ae68)
+
 
 
 ## RESULT
